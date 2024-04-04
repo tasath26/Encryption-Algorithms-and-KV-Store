@@ -1,0 +1,1 @@
+This is a normal text, the purpose of which is to be encrypted, and then decrypted, thats it. 
